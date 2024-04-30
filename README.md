@@ -1,6 +1,7 @@
 # arpitranakoti
 # 💫 About Me:
-I'm currently learning web development 
+I'm currently pursuing BCA from Graphic Era Hill University ,dehradun,uttarakhand
+I'm currently learning web development
 
 
 ## 🌐 Socials:
